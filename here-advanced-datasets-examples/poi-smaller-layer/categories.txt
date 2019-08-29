@@ -1,0 +1,183 @@
+Category ID of POI. Values:
+9553 : Lumber
+9538 : Men's Apparel
+4444 : Named Place
+9547 : Other General Merchandise
+9056 : Campsite
+7929 : Performing Arts
+8410 : Museum
+9524 : Synagogue
+9518 : Auto Parts
+4493 : Marina
+9999 : Border Crossing
+9569 : Wine & Liquor
+9590 : Residential Area/Building
+9539 : Shoe Store
+9502 : Telephone Service
+9996 : Coffee Shop
+7521 : Parking Garage/House
+9552 : Home Center
+9589 : Public Restroom
+9221 : Police Station
+9057 : BMX Track
+9990 : Premium Default
+9556 : Entertainment Electronics
+7389 : Tourist Information
+9536 : Specialty Food Store
+9548 : Variety Store
+9506 : Mover
+9513 : Retirement/Nursing Home
+7013 : Other Accommodation
+6000 : Bank
+7012 : Ski Resort
+9993 : Embassy
+9514 : Social Service
+9585 : Veterinarian Service
+9722 : Delivery Entrance
+9994 : County Council
+7940 : Sports Complex
+9725 : Meeting Point
+9574 : Health Club
+9500 : Business Service
+9540 : Specialty Clothing Store
+9597 : Tea House
+9718 : Animal Park
+9528 : Road Assistance
+9516 : Waste & Sanitary
+9541 : Women's Apparel
+9587 : Agricultural Product Market
+7510 : Rental Car Agency
+9529 : Funeral Director
+9730 : Named Intersection
+9546 : Discount Store
+9542 : Check Cashing Service
+9598 : EV Charging Station
+9581 : Realtor
+9505 : Health Care Service
+9520 : Local Transit
+9986 : Home Improvement & Hardware Store
+9570 : Boating
+9995 : Bookstore
+6512 : Shopping
+9708 : Public Transit Access
+9549 : Garden Center
+9582 : RV Park
+8060 : Hospital
+9591 : Cemetery
+4580 : Public Sports Airport
+9544 : Money Transferring Service
+9551 : Hardware Store
+4100 : Commuter Rail Station
+5813 : Nightlife
+7897 : Rest Area
+7998 : Ice Skating Rink
+8699 : Automobile Club
+9567 : Specialty Store
+9987 : Consumer Electronics Store
+9596 : Training Centre/Institute
+9530 : Post Office
+7990 : Convention/Exhibition Centre
+9991 : Industrial Zone
+9560 : Home Specialty Store
+9575 : Bowling Alley
+9537 : Clothing Store
+9050 : Bicycle Sharing Location
+9584 : Police Service
+9586 : Sporting & Instructional Camp
+9054 : Ranger Station
+4482 : Ferry Terminal
+9565 : Pharmacy
+9577 : Recreation Center
+7014 : Ski Lift
+9510 : Tailor & Alteration
+7996 : Amusement Park
+9562 : Flowers & Jewelry
+9563 : Gift, Antique, & Art
+9545 : Department Store
+9511 : Tax Service
+7538 : Auto Service & Maintenance
+9053 : Outdoor Service
+9512 : Repair Service
+8231 : Library
+9572 : Race Track
+9580 : Physician
+9595 : Repair Services
+9557 : Floor & Carpet
+9583 : Medical Service
+9988 : Office Supply & Services Store
+9509 : Storage
+9594 : Lottery Booth
+7522 : Park & Ride
+9558 : Furniture Store
+4170 : Bus Station
+9508 : Video & Game Rental
+9515 : Utilities
+8211 : School
+9554 : Other House & Garden
+9555 : Paint
+9121 : City Hall
+9543 : Currency Exchange
+9527 : Fire Department
+9573 : Golf Practice Range
+4013 : Train Station
+5800 : Restaurant
+9564 : Optical
+7520 : Parking Lot
+9503 : Cleaning & Laundry
+9525 : Government Office
+9592 : Highway Exit
+9578 : Attorney
+9714 : Cargo Centre
+9709 : Neighbourhood
+9058 : Bike Park
+9566 : Record, CD, & Video
+9534 : Night Club
+7997 : Sports Centre
+9059 : Bicycle Service
+8200 : Higher Education
+7011 : Hotel
+9576 : Sports Activities
+9550 : Glass & Window
+9559 : Major Appliance
+5400 : Grocery Store
+9992 : Place of Worship
+9521 : Travel Agent & Ticketing
+9998 : Hamlet
+4581 : Airport
+7994 : Civic/Community Centre
+9532 : Bar or Pub
+9593 : Transportation Service
+2084 : Winery
+7832 : Cinema
+9501 : Other Communication
+7985 : Casino
+5999 : Historical Monument
+5512 : Auto Dealership-Used Cars
+7992 : Golf Course
+5571 : Motorcycle Dealership
+9523 : Church
+7933 : Bowling Centre
+5540 : Petrol/Gasoline Station
+9507 : Photography
+9517 : Campground
+7947 : Park/Recreation Area
+3578 : ATM
+9707 : Public Transit Stop
+9561 : Computer & Software
+9568 : Sporting Goods Store
+9989 : Taxi Stand
+9579 : Dentist
+9531 : Banquet Hall
+9504 : Hair & Beauty
+5511 : Auto Dealerships
+5000 : Business Facility
+9519 : Car Wash/Detailing
+7999 : Tourist Attraction
+9055 : Running Track
+9533 : Cocktail Lounge
+9051 : Bicycle Parking
+9211 : Court House
+9535 : Convenience Store
+9715 : Military Base
+9571 : Theater
+9052 : Trailhead

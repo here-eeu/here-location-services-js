@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>Leaflet HERE Basemap</title>
+		<link rel="stylesheet" type="text/css" href="./libs/leaflet/leaflet.css">
+		<link rel="stylesheet" type="text/css" href="./libs/bootstrap-4.0.0/dist/css/bootstrap.min.css">
+		<link rel="stylesheet" type="text/css" href="./style.css">
+	</head>
+	<body>
+		<div id="basemap-control">
+		 
+		    <div class="form-check">
+			  <input class="form-check-input" type="radio" name="radios" data-map="normal.day" id="exampleRadios1" value="option1" checked>
+			  <label class="form-check-label">normal.day</label>
+			</div>
+			<div class="form-check">
+			  <input class="form-check-input" type="radio" name="radios" data-map="normal.day.grey" id="exampleRadios2" value="option2">
+			  <label class="form-check-label">normal.day.grey</label>
+			</div>
+			<div class="form-check">
+			  <input class="form-check-input" type="radio" name="radios" data-map="normal.day.transit" id="exampleRadios3" value="option3">
+			  <label class="form-check-label">normal.day.transit</label>
+			</div>
+			<div class="form-check">
+			  <input class="form-check-input" type="radio" name="radios" data-map="normal.night" id="exampleRadios4" value="option3">
+			  <label class="form-check-label">normal.night</label>
+			</div>
+			<div class="form-check">
+			  <input class="form-check-input" type="radio" name="radios" data-map="pedestrian.day" id="exampleRadios6" value="option3">
+			  <label class="form-check-label">pedestrian.day</label>
+			</div>
+			<div class="form-check">
+			  <input class="form-check-input" type="radio" name="radios" data-map="pedestrian.night" id="exampleRadios7" value="option3">
+			  <label class="form-check-label">pedestrian.night</label>
+			</div>
+			<div class="form-check">
+			  <input class="form-check-input" type="radio" name="radios" data-map="reduced.day" id="exampleRadios8" value="option3">
+			  <label class="form-check-label">reduced.day</label>
+			</div>
+		</div>
+		<div id="map"></div>
+		<script type="text/javascript" src="./libs/leaflet/leaflet.js"></script>
+		<script type="text/javascript" src="./main.js"></script>
+	</body>
+</html>
