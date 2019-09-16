@@ -4,7 +4,9 @@ var platform = new H.service.Platform({
   });
 
 // Obtain the default map types from the platform object
-var maptypes = platform.createDefaultLayers();
+var maptypes = platform.createDefaultLayers({
+  lg: 'ru'
+});
 
 // Instantiate (and display) a map object:
 var map = new H.Map(
@@ -19,4 +21,4 @@ var map = new H.Map(
 var behavior = new H.mapevents.Behavior(new H.mapevents.MapEvents(map));
 
 // Create the default UI:
-var ui = H.ui.UI.createDefault(map, maptypes);
+var ui = H.ui.UI.createDefault(map, maptypes, 'ru-Ru')
