@@ -1,8 +1,8 @@
 (function () {
 	
 	var platform = new H.service.Platform({
-      app_id: 'SRDnjFXg1EUdjJNVu9xN',
-      app_code: 'BDyd-r-8dYkniAe-fQKrOw',
+      app_id: 'YOUR_APP_ID',
+      app_code: 'YOUR_APP_CODE',
     })
     
     var defaultLayers = platform.createDefaultLayers()

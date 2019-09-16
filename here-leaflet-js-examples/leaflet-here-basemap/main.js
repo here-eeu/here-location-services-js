@@ -1,8 +1,8 @@
 (function(){
 
 	let M = {
-	    'AppId': 'SRDnjFXg1EUdjJNVu9xN',
-	    'AppCode': 'BDyd-r-8dYkniAe-fQKrOw',
+	    'AppId': 'YOUR_APP_ID',
+	    'AppCode': 'YOUR_APP_CODE',
 	    'Lat' : 55.751,     
 	    'Lng' : 37.620,     
 	    'Zoom' : 12,
