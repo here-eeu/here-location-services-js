@@ -5,25 +5,13 @@
    *
    * @param  {H.Map} map      A HERE Map instance within the application
    */
-  let showPublicTransport = map => {
-    let service = platform.getPlatformDataService()
-
-    let transportProvider = new H.service.extension.platformData.TileProvider(service,
-    {
-      layerId: 'PUBLIC_TRANSPORT_POI', level: 13
-    }, {
-        resultType: H.service.extension.platformData.TileProvider.ResultType.MARKER,
-    })
-    let public_tr = new H.map.layer.MarkerTileLayer(transportProvider)
-    map.addLayer(public_tr)
-  }
-
+  
   /**
    * Boilerplate map initialization code starts below:
    */
 
   //Step 1: initialize communication with the platform
-  // In your own code, replace variable window.apikey with your own apikey
+  // In your own code, replace letiable window.apikey with your own apikey
   let platform = new H.service.Platform({
     apikey: "YOUR_APIKEY"
   })
@@ -39,7 +27,16 @@
   window.addEventListener('resize', () => map.getViewPort().resize())
 
   map.setCenter({lat:55.75349, lng: 37.61885})
-  map.setZoom(13)
+  map.setZoom(16)
+
+  // Change delta parameter to customize zoom
+  map.addEventListener('wheel', e => {
+    if (e.delta < 0) {
+      e.delta = -0.1
+    } else {
+      e.delta = 0.1
+    }
+  })
 
   //Step 3: make the map interactive
   // MapEvents enables the event system
@@ -50,7 +47,7 @@
   
   let ui = H.ui.UI.createDefault(map, defaultLayers)
 
-  // Now use the map as required...
-  showPublicTransport(map)
+  // Customize zoom delta for the zoom control
+  ui.getControl("zoom").setZoomSpeed(0.5)
 
 }())
