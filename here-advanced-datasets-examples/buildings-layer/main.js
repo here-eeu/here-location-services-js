@@ -57,7 +57,7 @@
   //Step 1: initialize communication with the platform
   // In your own code, replace letiable window.apikey with your own apikey
   let platform = new H.service.Platform({
-    apikey: "e-euxwYPPXHFNeoGeg9SE6lwYeNUkW3ho_JmQU5hpOs"
+    apikey: "YOUR_APIKEY"
   })
 
   let defaultLayers = platform.createDefaultLayers()
