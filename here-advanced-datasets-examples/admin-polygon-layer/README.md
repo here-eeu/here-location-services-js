@@ -5,4 +5,4 @@ The example demonstrate a possibility how can extract admin polygons from HERE d
 ![Image alt](https://github.com/hererucis/here-location-services-js/blob/master/here-advanced-datasets-examples/_img/admin-polygon-layer.jpg)
 
 ## Usage
-Change the apikey value ```'apikey': 'YOUR_APIKEY'``` in main.js.
+Change the apikey value **'apikey': 'YOUR_APIKEY'** in main.js.
