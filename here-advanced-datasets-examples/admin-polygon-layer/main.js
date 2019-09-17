@@ -2,7 +2,7 @@
 
   // Initialize the platform object:
   let platform = new H.service.Platform({
-    'apikey': 'YOUR_APIKEY'
+    'apikey': 'mMAe2WEZear4kBv6DXbM1vHG03tQjKKsGcuS19rdGHQ'
     });
 
   // Obtain the default map types from the platform object
@@ -28,9 +28,7 @@
 
   // create tile provider and layer that displays postcode boundaries  
   let service = platform.getPlatformDataService()
-
   style = new H.map.SpatialStyle()
-  
   let adminsProvider = new H.service.extension.platformData.TileProvider(service,
       {
         layerId: 'ADMIN_POLY_9', 
