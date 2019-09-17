@@ -6,5 +6,4 @@ The example demonstrate a possibility how can extract admin polygons from HERE d
 
 ## Usage
 Change the apikey value in main.js:
-```'apikey': 'YOUR_APIKEY'
-```
+```'apikey': 'YOUR_APIKEY'```
